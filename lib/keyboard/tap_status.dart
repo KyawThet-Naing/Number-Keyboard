@@ -1,0 +1,1 @@
+enum TapStatus { down, up }
